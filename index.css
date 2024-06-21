@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "Special Elite", system-ui;
+  background-color: rgb(20,20,20);
+  color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+.main-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  width: 100%;
+}
+
+.main-title {
+  background-color: black;
+  color: white;
+  font-size: 60px;
+  padding: 20px 10px 0 10px;
+}
+
+.main-container {
+  width: 800px;
+  margin: auto;
+  font-size: 20px;
+  line-height: 2.2rem;
+  padding: 3rem 0;
+}
