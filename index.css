@@ -34,3 +34,17 @@ h1 {
   line-height: 2.2rem;
   padding: 3rem 0;
 }
+
+.illustration {
+  width: 100%;
+}
+
+.important {
+  font-weight: 700;
+  color: red;
+}
+
+.citation {
+  font-style: italic;
+  margin: 2rem 0;
+}
